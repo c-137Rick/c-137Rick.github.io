@@ -1,11 +1,11 @@
 # Site settings
-title: welcome to my blog
+title: wjw blog
 SEOTitle: wjw blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "You never know what you can do until you try"
+description: "风物长宜放眼量"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "https://c-137rick.github.io/"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
